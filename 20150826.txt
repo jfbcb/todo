@@ -1,2 +1,2 @@
-1.rent house
-2.park
+[]1.rent house
+[]2.park
